@@ -1,0 +1,12 @@
+ShowIntro=true
+Level0=Leicht
+LvlVal0=80
+Level1=Mittel
+LvlVal1=110
+Level2=Schwer
+LvlVal2=200
+Level3=Overkill
+LvlVal3=400
+BreakAcc=3e-05
+MaxSpeed=4
+MinSpeed=0.05
